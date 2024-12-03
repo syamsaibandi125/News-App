@@ -31,11 +31,13 @@ Picasso: For efficient image loading and caching.
 
 Screenshots
 Screenshot 1
+
 ![Splash Screen](https://github.com/fisa-07/News_App/assets/88451567/5bb83daa-ce8a-4c50-9dd6-1d51fb592e53)
 
 
 
 Screenshot 2
+
 ![Main Screen](https://github.com/fisa-07/News_App/assets/88451567/680e5e56-2f3a-456c-a3dd-97e643a760dd)
 
 
